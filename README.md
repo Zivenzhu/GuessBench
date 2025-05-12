@@ -5,4 +5,9 @@ This repository contains the questions and answers for GuessBench. At present, o
 
 ## Introduction
 
-GuessBench is a novel benchmark that evaluates Vision Language Models (VLMs) on modeling the pervasive, noisy, and pluralistic human creativity. GuessBench sources data from ``Guess the Build'', an online multiplayer Minecraft minigame where one player constructs a Minecraft build given a concept (e.g., caterpillar) and others try to guess it with natural language hints, presenting a pristine testbed for sensemaking creativity in the wild with VLMs acting as guessers. We curate 1500 images from the actual gameplay and design 2000 problems spanning static and dynamic image settings, natural language hints of varying completeness, and more. 
+GuessBench is a novel benchmark that evaluates Vision Language Models (VLMs) on modeling the pervasive, noisy, and pluralistic human creativity. GuessBench sources data from "Guess the Build", an online multiplayer Minecraft minigame where one player constructs a Minecraft build given a concept (e.g., caterpillar) and others try to guess it with natural language hints, presenting a pristine testbed for sensemaking creativity in the wild with VLMs acting as guessers. We curate 1500 images from the actual gameplay and design 2000 problems spanning static and dynamic image settings, natural language hints of varying completeness, and more. 
+
+## Overview
+
+![image](https://github.com/user-attachments/assets/c49aade1-c0f9-46b5-8711-2a34d7c16db9)
+
