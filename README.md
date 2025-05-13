@@ -1,6 +1,6 @@
 # GuessBench
 
-This repository contains the questions and answers for GuessBench. At present, only the data is available, but the test code will be provided soon. We welcome everyone to use and explore our benchmark!
+This repository contains the questions and answers for GuessBench. At present, both the data and the test code are available. We welcome everyone to use and explore our benchmark!
 
 
 ## Introduction
