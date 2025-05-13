@@ -1,0 +1,4 @@
+The answer format is as follows: 
+c     c     a                 r  
+_ _ _ _ _ _ _ _ _   _ _ _ _ _ _ _
+This means the answer consists of 2 words. The 1st word has 9 letters. The 2nd word has 7 letters. The 1st word's 1st letter is c. The 1st word's 4th letter is c. The 1st word's 7th letter is a. The 2nd word's 6th letter is r. 

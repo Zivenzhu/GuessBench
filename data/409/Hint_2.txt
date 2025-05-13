@@ -1,0 +1,4 @@
+The answer format is as follows: 
+  i           d          
+_ _ _ _   _ _ _   _ _ _ _
+This means the answer consists of 3 words. The 1st word has 4 letters. The 2nd word has 3 letters. The 3rd word has 4 letters. The 1st word's 2nd letter is i. The 2nd word's 3rd letter is d. 

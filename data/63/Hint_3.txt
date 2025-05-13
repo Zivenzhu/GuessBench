@@ -1,0 +1,4 @@
+The answer format is as follows: 
+              r   i   g
+_ _ _ _ _ _ _ _ _ _ _ _
+This means the answer consists of 1 word. The 1st word has 12 letters. The 1st word's 8th letter is r. The 1st word's 10th letter is i. The 1st word's 12th letter is g. 

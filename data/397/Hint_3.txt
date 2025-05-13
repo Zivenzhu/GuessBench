@@ -1,0 +1,4 @@
+The answer format is as follows: 
+m         a     e
+_ _ _ _ _ _ _ _ _
+This means the answer consists of 1 word. The 1st word has 9 letters. The 1st word's 1st letter is m. The 1st word's 6th letter is a. The 1st word's 9th letter is e. 

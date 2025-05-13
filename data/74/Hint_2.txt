@@ -1,0 +1,4 @@
+The answer format is as follows: 
+    r    
+_ _ _ _ _
+This means the answer consists of 1 word. The 1st word has 5 letters. The 1st word's 3rd letter is r. 

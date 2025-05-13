@@ -1,0 +1,4 @@
+The answer format is as follows: 
+  o         l   a  
+_ _ _   _ _ _ _ _ _
+This means the answer consists of 2 words. The 1st word has 3 letters. The 2nd word has 6 letters. The 1st word's 2nd letter is o. The 2nd word's 3rd letter is l. The 2nd word's 5th letter is a. 

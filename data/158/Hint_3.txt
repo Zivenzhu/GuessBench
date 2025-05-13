@@ -1,0 +1,4 @@
+The answer format is as follows: 
+f i   h          
+_ _ _ _ _ _ _ _ _
+This means the answer consists of 1 word. The 1st word has 9 letters. The 1st word's 1st letter is f. The 1st word's 2nd letter is i. The 1st word's 4th letter is h. 

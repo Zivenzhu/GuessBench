@@ -1,0 +1,4 @@
+The answer format is as follows: 
+      t         p  
+_ _ _ _ _ _ _ _ _ _
+This means the answer consists of 1 word. The 1st word has 10 letters. The 1st word's 4th letter is t. The 1st word's 9th letter is p. 

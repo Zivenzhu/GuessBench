@@ -1,0 +1,4 @@
+The answer format is as follows: 
+j         r      
+_ _ _ _   _ _ _ _
+This means the answer consists of 2 words. The 1st word has 4 letters. The 2nd word has 4 letters. The 1st word's 1st letter is j. The 2nd word's 1st letter is r. 

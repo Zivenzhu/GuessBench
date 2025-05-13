@@ -1,0 +1,4 @@
+The answer format is as follows: 
+        e           d        
+_ _ _ _ _ _ _ _ _ _ _   _ _ _
+This means the answer consists of 2 words. The 1st word has 11 letters. The 2nd word has 3 letters. The 1st word's 5th letter is e. The 1st word's 11th letter is d. 

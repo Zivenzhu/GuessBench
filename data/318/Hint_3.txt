@@ -1,0 +1,4 @@
+The answer format is as follows: 
+l       j   c      
+_ _ _ _ _ _ _ _ _ _
+This means the answer consists of 1 word. The 1st word has 10 letters. The 1st word's 1st letter is l. The 1st word's 5th letter is j. The 1st word's 7th letter is c. 

@@ -1,0 +1,4 @@
+The answer format is as follows: 
+  o                   o          
+_ _ _ _   _ _ _ _   _ _ _ _ _ _ _
+This means the answer consists of 3 words. The 1st word has 4 letters. The 2nd word has 4 letters. The 3rd word has 7 letters. The 1st word's 2nd letter is o. The 3rd word's 2nd letter is o. 

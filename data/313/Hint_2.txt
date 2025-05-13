@@ -1,0 +1,4 @@
+The answer format is as follows: 
+  h          
+_ _ _ _ _ _ _
+This means the answer consists of 1 word. The 1st word has 7 letters. The 1st word's 2nd letter is h. 

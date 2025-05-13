@@ -1,0 +1,4 @@
+The answer format is as follows: 
+  i n   c        
+_ _ _ _ _ _ _ _ _
+This means the answer consists of 1 word. The 1st word has 9 letters. The 1st word's 2nd letter is i. The 1st word's 3rd letter is n. The 1st word's 5th letter is c. 

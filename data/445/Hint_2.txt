@@ -1,0 +1,4 @@
+The answer format is as follows: 
+v               e
+_ _ _ _ _ _ _ _ _
+This means the answer consists of 1 word. The 1st word has 9 letters. The 1st word's 1st letter is v. The 1st word's 9th letter is e. 

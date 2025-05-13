@@ -1,0 +1,4 @@
+The answer format is as follows: 
+c       r   i        
+_ _ _ _ _ _ _ _ _ _ _
+This means the answer consists of 1 word. The 1st word has 11 letters. The 1st word's 1st letter is c. The 1st word's 5th letter is r. The 1st word's 7th letter is i. 

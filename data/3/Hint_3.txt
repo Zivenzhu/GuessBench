@@ -1,0 +1,4 @@
+The answer format is as follows: 
+              i   t i   g
+_ _ _ _ _ _ _ _ _ _ _ _ _
+This means the answer consists of 1 word. The 1st word has 13 letters. The 1st word's 8th letter is i. The 1st word's 10th letter is t. The 1st word's 11th letter is i. The 1st word's 13th letter is g. 

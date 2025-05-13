@@ -1,0 +1,4 @@
+The answer format is as follows: 
+    u   t   c    
+_ _ _ _ _ _ _ _ _
+This means the answer consists of 1 word. The 1st word has 9 letters. The 1st word's 3rd letter is u. The 1st word's 5th letter is t. The 1st word's 7th letter is c. 

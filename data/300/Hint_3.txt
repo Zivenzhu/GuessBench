@@ -1,0 +1,4 @@
+The answer format is as follows: 
+s   o        
+_ _ _ _ _ _ _
+This means the answer consists of 1 word. The 1st word has 7 letters. The 1st word's 1st letter is s. The 1st word's 3rd letter is o. 

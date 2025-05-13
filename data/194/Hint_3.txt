@@ -1,0 +1,4 @@
+The answer format is as follows: 
+      s     i   g
+_ _ _ _ _ _ _ _ _
+This means the answer consists of 1 word. The 1st word has 9 letters. The 1st word's 4th letter is s. The 1st word's 7th letter is i. The 1st word's 9th letter is g. 

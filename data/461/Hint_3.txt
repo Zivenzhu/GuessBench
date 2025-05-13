@@ -1,0 +1,4 @@
+The answer format is as follows: 
+          o         e a  
+_ _ _ _   _ _   _ _ _ _ _
+This means the answer consists of 3 words. The 1st word has 4 letters. The 2nd word has 2 letters. The 3rd word has 5 letters. The 2nd word's 1st letter is o. The 3rd word's 3rd letter is e. The 3rd word's 4th letter is a. 

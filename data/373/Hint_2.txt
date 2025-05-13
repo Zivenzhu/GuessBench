@@ -1,0 +1,4 @@
+The answer format is as follows: 
+        r   t      
+_ _ _ _ _ _ _ _ _ _
+This means the answer consists of 1 word. The 1st word has 10 letters. The 1st word's 5th letter is r. The 1st word's 7th letter is t. 

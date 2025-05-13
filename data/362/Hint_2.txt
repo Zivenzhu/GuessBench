@@ -1,0 +1,4 @@
+The answer format is as follows: 
+    f               o  
+_ _ _ _ _ _ _ _ _ _ _ _
+This means the answer consists of 1 word. The 1st word has 12 letters. The 1st word's 3rd letter is f. The 1st word's 11th letter is o. 

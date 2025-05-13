@@ -1,0 +1,4 @@
+The answer format is as follows: 
+      e       o n       l      
+_ _ _ _ _   _ _ _ _ _ _ _ _ _ _
+This means the answer consists of 2 words. The 1st word has 5 letters. The 2nd word has 10 letters. The 1st word's 4th letter is e. The 2nd word's 2nd letter is o. The 2nd word's 3rd letter is n. The 2nd word's 7th letter is l. 

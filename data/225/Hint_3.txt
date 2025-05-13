@@ -1,0 +1,4 @@
+The answer format is as follows: 
+          p o     m    
+_ _ _ _ _ _ _ _ _ _ _ _
+This means the answer consists of 1 word. The 1st word has 12 letters. The 1st word's 6th letter is p. The 1st word's 7th letter is o. The 1st word's 10th letter is m. 

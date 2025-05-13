@@ -1,0 +1,4 @@
+The answer format is as follows: 
+    r f         d
+_ _ _ _ _ _ _ _ _
+This means the answer consists of 1 word. The 1st word has 9 letters. The 1st word's 3rd letter is r. The 1st word's 4th letter is f. The 1st word's 9th letter is d. 

@@ -1,0 +1,4 @@
+The answer format is as follows: 
+t       f         i g      
+_ _ _ _ _ _ _   _ _ _ _ _ _
+This means the answer consists of 2 words. The 1st word has 7 letters. The 2nd word has 6 letters. The 1st word's 1st letter is t. The 1st word's 5th letter is f. The 2nd word's 2nd letter is i. The 2nd word's 3rd letter is g. 

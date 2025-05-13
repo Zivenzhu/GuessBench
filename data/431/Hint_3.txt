@@ -1,0 +1,4 @@
+The answer format is as follows: 
+    t   h       c  
+_ _ _ _ _ _ _ _ _ _
+This means the answer consists of 1 word. The 1st word has 10 letters. The 1st word's 3rd letter is t. The 1st word's 5th letter is h. The 1st word's 9th letter is c. 

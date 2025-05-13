@@ -1,0 +1,4 @@
+The answer format is as follows: 
+  o         e u  
+_ _ _ _ _ _ _ _ _
+This means the answer consists of 1 word. The 1st word has 9 letters. The 1st word's 2nd letter is o. The 1st word's 7th letter is e. The 1st word's 8th letter is u. 
