@@ -56,26 +56,23 @@ You can use chain of thought reasoning to improve your guess."""
 bool_lists = [[1, 0], [0, 0]]
 ## [["Static", "Dynamic"], ["base", "No_CoT", "One-shot", "Consistency", "Build_only", "Hint_only", "Self-feedback_less_context", "Retrieve_real_image_less_context", "Multi-view", "Multilinguality"]]
 # model_name = "InternVL2_5-78B-MPO"
-# model_name = "llava-onevision-qwen2-72b-ov-hf"
 model_name = "MiniCPM-V-2_6"
 languages = ["Russian", "Chinese", "Thai", "Arabic", "Hungarian", "Marathi", "Telugu"]
 
 for bool_list in bool_lists:
     all_accs = []
     if bool_list[1] == 8:
-        base_folder = "/home/shangbin/datasets/minecraft_Multi-view"
+        base_folder = "" # input the path to the Multi-View dataset here
     else:
-        base_folder = "/home/shangbin/datasets/minecraft"
+        base_folder = "../data"
 
     all_sets = natsorted(os.listdir(base_folder))
     # all_sets = ["5"]
     # for language in languages:
 
-    language = "asshole"
+    language = "" # input the language here
     for tmp_set in all_sets:
         print(tmp_set)
-        # if (int(tmp_set) < 342) and (bool_list[0] == 1):
-        #     continue
 
         set_path = os.path.join(base_folder, tmp_set)
 
@@ -131,7 +128,7 @@ for bool_list in bool_lists:
                 if bool_list[1] == 8:
                     with open("indexs.json", "r") as f:
                         indexs = json.load(f)
-                    hint_path = os.path.join("/home/shangbin/datasets/minecraft", str(indexs[int(tmp_set)-1]), f"Hint_{i+1}.txt")
+                    hint_path = os.path.join("../data", str(indexs[int(tmp_set)-1]), f"Hint_{i+1}.txt")
                     print(hint_path)
                     with open(hint_path, "r") as file:
                         hint = file.read()
@@ -186,7 +183,7 @@ Hint: {hint}
             if bool_list[1] == 8:
                 with open("indexs.json", "r") as f:
                     indexs = json.load(f)
-                hint_path = os.path.join("/home/shangbin/datasets/minecraft", str(indexs[int(tmp_set) - 1]), f"Hint_3.txt")
+                hint_path = os.path.join("../data", str(indexs[int(tmp_set) - 1]), f"Hint_3.txt")
                 with open(hint_path, "r") as file:
                     hint = file.read()
             elif bool_list[1] == 9:
