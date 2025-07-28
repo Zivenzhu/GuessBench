@@ -11,4 +11,9 @@ GuessBench is a novel benchmark that evaluates Vision Language Models (VLMs) on 
 
 ![image](https://github.com/user-attachments/assets/b70adba7-bd44-413f-ae0b-638dde5509ce)
 
+## Evaluation
+```
+python code/evaluation.py
+```
+
 
