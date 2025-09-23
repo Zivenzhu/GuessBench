@@ -14,7 +14,7 @@ from selenium.webdriver.support import expected_conditions as EC
 client = AzureOpenAI(
     api_version="2025-01-01-preview",
     api_key="", # input your api key here    
-    azure_endpoint="https://tsvetshop.openai.azure.com/"
+    azure_endpoint="" # input your endpoint here    
 )
 
 def encode_image(image_path):
@@ -68,7 +68,7 @@ def get_answer(guess):
     client = AzureOpenAI(
         api_version="2025-01-01-preview",
         api_key="",  # input your api key here
-        azure_endpoint="https://tsvetshop.openai.azure.com/"
+        azure_endpoint=""  # input your endpoint here  
     )
 
     completion = client.chat.completions.create(

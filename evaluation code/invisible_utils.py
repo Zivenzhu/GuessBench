@@ -46,7 +46,7 @@ def get_answer(folder_name, model_name, turn_index, bool_list, try_index, langua
     client = AzureOpenAI(
         api_version="2025-01-01-preview",
         api_key="", # input your api key here
-        azure_endpoint="https://tsvetshop.openai.azure.com/"
+        azure_endpoint=""  # input your endpoint here  
     )
 
     completion = client.chat.completions.create(
