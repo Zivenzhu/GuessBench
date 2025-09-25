@@ -31,30 +31,25 @@ def process_images_in_folder(folder_name, turn_index):
 
 def google_image_search(query, num_images=5):
     options = webdriver.ChromeOptions()
-    options.add_argument("--headless")  # 无界面模式
+    options.add_argument("--headless") 
     options.add_argument("--disable-gpu")
     options.add_argument("--window-size=1920,1080")
     driver = webdriver.Chrome(options=options)
 
     try:
-        # 打开 Google 图片
         driver.get("https://www.google.com/imghp")
-
-        # 输入查询关键词并搜索
         search_box = driver.find_element(By.NAME, "q")
         search_box.send_keys(query)
         search_box.send_keys(Keys.RETURN)
-
-        # 等待图片加载
         WebDriverWait(driver, 5).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, "div.H8Rx8c img"))
         )
-        # 滚动页面，加载更多图片
+
         for _ in range(3):
             driver.execute_script("window.scrollBy(0, 1000);")
             time.sleep(1)
 
-        # 获取图片
+ 
         images = driver.find_elements(By.CSS_SELECTOR, "div.H8Rx8c img")[:num_images]
         img_urls = [img.get_attribute("src") for img in images if img.get_attribute("src")]
 
